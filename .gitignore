@@ -1,0 +1,16 @@
+node_modules/
+frontend/app/node_modules/
+frontend/app/dist/
+.npm-cache/
+.workbuddy/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+backend/data/*.db
+run_project_out.log
+run_project_err.log
+.env
+.env.*
+.DS_Store
